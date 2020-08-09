@@ -1,0 +1,38 @@
+body{
+    margin: auto 0;
+    background-color: darkkhaki;
+}
+
+.header-name{
+    text-align: center;
+    color: darkred;
+    font-size: 2em;
+}
+.image{
+    text-align: center;
+
+}
+
+img{
+    border-radius: 50%;
+}
+
+h2, h4 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-family: 'Luto' sans-serif;
+    color: rgba(32, 218, 172, 0.897);
+}
+
+.text-bio{
+    margin: 20px 15px;
+    font-size: 1em;
+    line-height: 2;
+}
+
+p{
+    margin: 20px 15px;
+    font-size: 1em;
+    line-height: 2;  
+}
